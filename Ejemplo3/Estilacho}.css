@@ -1,0 +1,13 @@
+.estilo1{
+border: 5px;
+border-style:  solid;
+border-color: tomato;
+}
+
+.estilo2{
+    border: 5px solid rgb(71, 212, 255);
+    }
+
+    .estilo3 {
+    border: 5px solid rgb(71, 212, 255);
+    }
