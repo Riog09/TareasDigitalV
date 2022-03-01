@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(51, 202, 96);
+   }
+   h1 {
+    color: white;
+    text-align: center;
+   }
+   p {
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px
+   }
+
+   #acentuacionRoja {
+   color: red;
+}
+.resaltado-verde {
+    color: rgb(0, 60, 128);
+    font-size: 50px
+ }
+ .resaltado-rojo {
+    color: rgb(128, 15, 0);
+    font-size: 50px
+ }
+
+ .resaltado-morado {
+    color: rgb(98, 0, 128);
+    font-size: 50px
+ }
+
+*{
+    text-align: center;
+}
+
+ p.tono-azul {
+    color: rgb(255, 230, 0);
+    font-size: 50px
+ }
+
+ .texto-grande {
+    font-size: 50px
+}
+.texto-centro {
+    text-align: center;
+}
